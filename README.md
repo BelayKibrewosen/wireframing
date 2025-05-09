@@ -49,3 +49,38 @@ Functionality in wireframes demonstrates how users interact with elements, such 
 
 These elements ensure a user-centered design and provide a solid foundation before moving to high-fidelity mockups or development.
 
+## 🧾 Types of Wireframes
+
+Wireframes can be categorized based on their level of detail and visual polish. The two main types are **low-fidelity** and **high-fidelity** wireframes.
+
+### 🔹 Low-Fidelity Wireframes
+
+Low-fidelity wireframes are simple, sketch-like representations that focus on layout and structure rather than design details. They often use grayscale colors, placeholder text (e.g., "Lorem Ipsum"), and basic shapes.
+
+**Use Cases:**
+- Early brainstorming and ideation
+- Rapid prototyping
+- Getting quick stakeholder feedback on layout and navigation
+
+### 🔸 High-Fidelity Wireframes
+
+High-fidelity wireframes are more detailed and often closely resemble the final product. They may include real content, images, accurate spacing, and sometimes interactivity.
+
+**Use Cases:**
+- Developer handoff and detailed UI design
+- Stakeholder presentations
+- Usability testing with real users
+
+---
+
+## 🧐 What Type of Wireframe Is This?
+
+**[Project Airbnb Wireframe in Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?)**
+
+
+
+
+
+
+
+
