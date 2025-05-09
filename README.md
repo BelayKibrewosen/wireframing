@@ -14,3 +14,38 @@ Wireframes serve as a blueprint for the digital product, providing clarity on:
 - **Efficiency**: Identifying issues in structure or navigation during the wireframing stage saves time and cost compared to changes during development.
 
 Whether you're building a website, mobile app, or dashboard, wireframes are essential to ensure a user-centered, efficient, and successful design process.
+
+## 🧱 Key Elements of a Wireframe
+
+Wireframes focus on the **structure** and **usability** of a design rather than colors or final visuals. Below are the key elements commonly found in effective wireframes:
+
+### 🗂️ Layout Structure
+This defines how the content is organized on the page, including spacing, alignment, and hierarchy.
+
+**Example:** A homepage layout with a top header, side navigation bar, and main content area helps users easily locate site sections.
+
+---
+
+### 🧭 Navigation
+Navigation elements guide users through different parts of the interface and include menus, breadcrumbs, and buttons.
+
+**Example:** A navigation bar with tabs like *Home*, *Search*, and *Bookings* allows users to move efficiently through a booking system.
+
+---
+
+### 📝 Content Placement
+This refers to the positioning of key information such as headings, paragraphs, images, and call-to-action buttons.
+
+**Example:** Placing a “Book Now” button directly under a property description draws attention and improves conversion.
+
+---
+
+### ⚙️ Functionality
+Functionality in wireframes demonstrates how users interact with elements, such as dropdown menus, search bars, and form inputs.
+
+**Example:** A wireframe may show a filter panel with checkboxes to sort properties by price, location, or rating, giving early insight into user interaction needs.
+
+---
+
+These elements ensure a user-centered design and provide a solid foundation before moving to high-fidelity mockups or development.
+
