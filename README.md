@@ -73,10 +73,29 @@ High-fidelity wireframes are more detailed and often closely resemble the final 
 
 ---
 
-## 🧐 What Type of Wireframe Is This?
 
-**[Project Airbnb Wireframe in Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?)**
+## 🛠️ Popular Wireframing Tools
 
+There are several tools available for creating wireframes, ranging from simple sketching platforms to advanced collaborative design environments. Choosing the right tool depends on your design needs, team workflow, and desired level of fidelity.
+
+### ✨ Recommended Tool: Figma
+
+[Figma](https://www.figma.com/) is a powerful, browser-based design tool widely used for wireframing, UI/UX design, and prototyping.
+
+#### 🔑 Key Features:
+- **Real-time Collaboration**: Multiple users can work on the same file simultaneously, making it ideal for teams.
+- **Component System**: Reusable components help maintain consistency across wireframes and speed up the design process.
+- **Cross-Platform Access**: No installation needed—works on any device with a browser.
+- **Interactive Prototyping**: Quickly link screens and interactions to simulate user flows.
+- **Version Control & Commenting**: Review design history and gather feedback directly in the workspace.
+
+#### ✅ Why Figma is Great for Wireframing:
+- Easy to learn with a clean, intuitive interface.
+- Supports both **low-fidelity** and **high-fidelity** wireframes.
+- Built-in libraries and templates help accelerate design.
+- Integrates well with tools like Slack, Jira, and GitHub.
+
+Whether you're ideating or preparing developer handoff, Figma is a versatile and efficient tool that supports the full design process from wireframes to final UI.
 
 
 
